@@ -3,9 +3,11 @@
 This project demonstrates basic GitHub workflows and a simple Python script
 that generates a boxplot using the California Housing dataset.
 
-- Data
+## Data
 The California Housing dataset is loaded from scikit-learn.
 
--  How to run
+## How to run
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-  
